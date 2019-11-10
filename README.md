@@ -1,19 +1,7 @@
 # icu
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##收获:
+1. Menu切换的实现
+2. cnpm i -S github-markdown-css
+3. cnpm i -S vue-github-button(使用github star图标) 
+##预览地址:http://www.aaeerr.com:8888/icu
